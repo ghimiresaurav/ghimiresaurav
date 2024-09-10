@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with MERN stack
-- 🌱 I’m currently learning REACT
 - 💬 Ask me about node.js and server side development
 - 📫 How to reach me: email me on my public email address
 - 😄 Pronouns: he/him
